@@ -1,0 +1,9 @@
+{
+    "author" : "yzzi",
+    "date" : "2023/01/28",
+    "api" : "0.0.1",
+    "name" : "Dock",
+    "version" : "1.0.0",
+    "des" : "Dock插件",
+    "dependencies" : []
+}

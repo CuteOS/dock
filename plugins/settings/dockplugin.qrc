@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/dock">
+        <file>qml/main.qml</file>
+        <file>images/darkdock.png</file>
+        <file>images/darkfill.png</file>
+        <file>images/lightdock.png</file>
+        <file>images/lightfill.png</file>
+    </qresource>
+</RCC>
